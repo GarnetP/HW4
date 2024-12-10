@@ -73,18 +73,18 @@ compleasm run -a /pub/gphinney/myrepos/ee282/data/raw/dmel-all-chromosome-r6.60.
 These assemblies score very similarly
 
 ### My Assembly Results
-S:99.63%, 3273
-D:0.24%, 8
-F:0.00%, 0
-I:0.00%, 0
-M:0.12%, 4
+S:99.63% 3273  
+D:0.24% 8  
+F:0.00%, 0  
+I:0.00%, 0  
+M:0.12%, 4  
 N:3285
 
 ### Flybase Assembly Results
-S:99.70%, 3275
-D:0.30%, 10
-I:0.00%, 0
-M:0.00%, 0
+S:99.70%, 3275  
+D:0.30%, 10  
+I:0.00%, 0  
+M:0.00%, 0  
 N:3285
 
 
